@@ -4,3 +4,6 @@ remote repository of git_tutorial
 ## first
 ## second
 
+# after setting
+## first
+
